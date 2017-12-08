@@ -1,0 +1,8 @@
+﻿生成启动时间为 2017/12/8 14:17:17。
+     1>项目“Z:\ls1c_build\pmon_new\uart_tool_for_ls\ls1c_uart_tool\uart\uart.vcxproj”在节点 2 上(clean 个目标)。
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppClean.targets(74,5): warning : 对路径“C:\Users\Administrator\Desktop\龙芯串口调试工具\龙芯串口调试工具.exe”的访问被拒绝。
+     1>已完成生成项目“Z:\ls1c_build\pmon_new\uart_tool_for_ls\ls1c_uart_tool\uart\uart.vcxproj”(clean 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.05
